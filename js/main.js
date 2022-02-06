@@ -1,0 +1,1 @@
+"use strict";const swiper=new Swiper(".swiper",{loop:!0,spaceBetween:110,pagination:{el:".swiper-pagination"},navigation:{nextEl:".swiper-button-next",prevEl:".swiper-button-prev"}});
